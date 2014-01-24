@@ -1,0 +1,5 @@
+Feature: Advanced mode
+
+  Background:
+    * Make sure that gnome-calculator is running
+    * Switch to Basic mode
